@@ -1,4 +1,5 @@
 import { Injectable } from '@nestjs/common'
+import envConfig from 'src/shared/config'
 import { PrismaService } from 'src/shared/services/prisma.service'
 
 @Injectable()
