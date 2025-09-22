@@ -1,3 +1,6 @@
 {
-  "cSpell.words": ["autoincrement", "dotenv", "pids"]
+  "cSpell.words": ["autoincrement", "dotenv", "pids"],
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.detectIndentation": false
 }
